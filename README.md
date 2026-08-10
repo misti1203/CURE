@@ -1,5 +1,3 @@
-**Cascaded Unified Representation Learning for Efficient Fusion Network (CURE)**
-
 ## 📖 Citation
 
 If you find this **CURE framework** useful for your research, please consider citing our **ACM SIGKDD 2026** paper.
