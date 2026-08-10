@@ -2,7 +2,7 @@
 
 ## 📖 Citation
 
-If you find this work or the **CURE framework** useful for your research, please consider citing our **ACM SIGKDD 2026** paper.
+If you find this **CURE framework** useful for your research, please consider citing our **ACM SIGKDD 2026** paper.
 
 <div align="center">
 
