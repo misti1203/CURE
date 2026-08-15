@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: "If you use CURE in your work, please cite the KDD 2026 paper."
+title: "CURE: Cascaded Unified Representation Learning for Efficient Fusion Network"
+type: software
+authors:
+  - family-names: Dhar
+    given-names: Joy
+  - family-names: Pandey
+    given-names: Manish Kumar
+  - family-names: Zaidi
+    given-names: Nayyar
+  - family-names: Chen
+    given-names: Chen
+  - family-names: Haghighat
+    given-names: Maryam
+  - family-names: Sohel
+    given-names: Ferdous
+  - family-names: Goyal
+    given-names: Puneet
+repository-code: "https://github.com/misti1203/CURE"
+url: "https://doi.org/10.1145/3770855.3817885"
+keywords:
+  - multimodal learning
+  - medical artificial intelligence
+  - hybrid geometry attention
+  - hyperbolic learning
+  - quantum-inspired attention
+  - survival analysis
+  - electronic health records
+preferred-citation:
+  type: conference-paper
+  title: "Advancing Multimodal Fusion on Heterogeneous Medical Data with Hybrid Geometry Attention"
+  authors:
+    - family-names: Dhar
+      given-names: Joy
+    - family-names: Pandey
+      given-names: Manish Kumar
+    - family-names: Zaidi
+      given-names: Nayyar
+    - family-names: Chen
+      given-names: Chen
+    - family-names: Haghighat
+      given-names: Maryam
+    - family-names: Sohel
+      given-names: Ferdous
+    - family-names: Goyal
+      given-names: Puneet
+  collection-title: "Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2"
+  year: 2026
+  month: 8
+  start: 863
+  end: 874
+  publisher:
+    name: Association for Computing Machinery
+  doi: "10.1145/3770855.3817885"
+  url: "https://doi.org/10.1145/3770855.3817885"
